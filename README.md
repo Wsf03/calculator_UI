@@ -1,6 +1,9 @@
-# Calculator_UI
+# Smart calculator
 
 I have created a unique and smart calculator by using HTML,CSS and Javascript. As i am Frontend Web Development intern in @Dabotics India pvt. ltd, my #task2 is to create a UI of calculator which performs all arithmetic operations. As i am trainee, I am enhancing my skills and gaining more knowledge about frontend web development.
+
+# link
+https://smart-calculator-wasifchougule.netlify.app/
 
 # screenshots 
 
